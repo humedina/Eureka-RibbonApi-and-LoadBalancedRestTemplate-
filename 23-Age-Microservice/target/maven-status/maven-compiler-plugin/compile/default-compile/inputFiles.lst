@@ -1,0 +1,7 @@
+/home/humberto/Documentos/microserviceMgtGrupo1/23-Age-Microservice/src/main/java/com/consulting/mgt/springboot/practica23/ribbon/agemicroservice/restcontroller/AgeRestController.java
+/home/humberto/Documentos/microserviceMgtGrupo1/23-Age-Microservice/src/main/java/com/consulting/mgt/springboot/practica23/ribbon/agemicroservice/client/LoadBalancedRestTemplateRandomServiceClient.java
+/home/humberto/Documentos/microserviceMgtGrupo1/23-Age-Microservice/src/main/java/com/consulting/mgt/springboot/practica23/ribbon/agemicroservice/Application.java
+/home/humberto/Documentos/microserviceMgtGrupo1/23-Age-Microservice/src/main/java/com/consulting/mgt/springboot/practica23/ribbon/agemicroservice/client/RibbonApiRandomServiceClient.java
+/home/humberto/Documentos/microserviceMgtGrupo1/23-Age-Microservice/src/main/java/com/consulting/mgt/springboot/practica23/ribbon/agemicroservice/MyListener.java
+/home/humberto/Documentos/microserviceMgtGrupo1/23-Age-Microservice/src/main/java/com/consulting/mgt/springboot/practica23/ribbon/agemicroservice/client/IRamdomService.java
+/home/humberto/Documentos/microserviceMgtGrupo1/23-Age-Microservice/src/main/java/com/consulting/mgt/springboot/practica23/ribbon/agemicroservice/client/LocalRandomServiceClient.java
