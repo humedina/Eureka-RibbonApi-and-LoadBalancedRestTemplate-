@@ -4,8 +4,7 @@ _La finalidad del presente proyecto es poner en practica los temas aprendidos du
 El proyecto se encuentra conformado por cuatro servicio en los que se ha implementado Spring CLoud Netflix Ribbon._
 
 ## Comenzando 🚀
-_1.- Clonar el repositorio de GitHub para tener acceso a los proyectos involucrados: https://github.com/humedina/Eureka-RibbonApi-and-LoadBalancedRestTemplate-
-.git_
+_1.- Clonar el repositorio de GitHub para tener acceso a los proyectos involucrados: https://github.com/humedina/Eureka-RibbonApi-and-LoadBalancedRestTemplate-.git_
 
 _2.- Importar proyectos (23-Age-Microservice, 23-Eureka-Server, 23-Random-Microservice y 23-User-Micriservice)._
 
